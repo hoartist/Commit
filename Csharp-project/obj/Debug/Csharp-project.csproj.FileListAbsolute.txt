@@ -1,0 +1,6 @@
+/Users/leeyongho/Projects/Csharp-project/Csharp-project/bin/Debug/Csharp-project.exe
+/Users/leeyongho/Projects/Csharp-project/Csharp-project/bin/Debug/Csharp-project.pdb
+/Users/leeyongho/Projects/Csharp-project/Csharp-project/obj/Debug/Csharp-project.csproj.CoreCompileInputs.cache
+/Users/leeyongho/Projects/Csharp-project/Csharp-project/obj/Debug/Csharp-project.exe
+/Users/leeyongho/Projects/Csharp-project/Csharp-project/obj/Debug/Csharp-project.pdb
+/Users/leeyongho/Projects/Csharp-project/Csharp-project/obj/Debug/Csharp-project.csprojAssemblyReference.cache
